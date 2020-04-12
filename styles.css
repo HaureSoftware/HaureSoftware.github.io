@@ -1,7 +1,8 @@
 			body{
 				background: white;
 				color: white;
-				font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+				/*font-family: Helvetica Neue, Helvetica, Arial, sans-serif;*/
+				font-family: Comic Sans MS;
 				margin: 0;
 				padding: 0;
 			}
@@ -9,8 +10,14 @@
 				background: black;
 				padding: 20px;
 			}
-			
+
 			section{
+				background: white;
+				color: black;
+				padding: 20px;
+			}
+			
+			newSection{
 				background: white;
 				color: black;
 				padding: 20px;
