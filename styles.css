@@ -17,7 +17,7 @@
 				display: flex;
 				flex-direction: row;
 			}
-
+			
 			a{
 				border-radius: 10px;
 				background: White;
@@ -26,7 +26,7 @@
 				margin: 0;
 				padding: 5px;				
 			}
-
+			
 			a:link{
 				border-radius: 10px;
 				background: White;
